@@ -8,15 +8,17 @@ Current version: 0.0.9
 
 ----0.0.9----
 * Created the bot
+
 * Added some commands
 
-1. bulkdelete.js  -- deletes messages in chat.
+  * bulkdelete.js  -- deletes messages in chat.
 
-2. da.js -- dangerous actions, only owner can use this command.
+  * da.js -- dangerous actions, only owner can use this command.
 
-3. owa.js -- dangerous actions, only owner can use this command.
+  * owa.js -- dangerous actions, only owner can use this command.
 
-4. ping.js -- check's bot's life.
+  * ping.js -- check's bot's life.
 
-5. say.js -- shows embed with your text.
+  * say.js -- shows embed with your text.
+
 * Added simple module, dynamicEmbed
