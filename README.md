@@ -19,3 +19,4 @@ Current version: 0.0.9
 -ping.js -- check's bot's life.
 
 -say.js -- shows embed with your text.
+3. Added simple module, dynamicEmbed
