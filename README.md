@@ -4,19 +4,19 @@ Nina is simple discord bot (discord.js), you can download my bad code and use it
 
 Current version: 0.0.9
 
-# Versions
+## Versions
 
 ----0.0.9----
-1. Created the bot
-2. Added some commands
+* Created the bot
+* Added some commands
 
--bulkdelete.js  -- deletes messages in chat.
+1. bulkdelete.js  -- deletes messages in chat.
 
--da.js -- dangerous actions, only owner can use this command.
+2. da.js -- dangerous actions, only owner can use this command.
 
--owa.js -- dangerous actions, only owner can use this command.
+3. owa.js -- dangerous actions, only owner can use this command.
 
--ping.js -- check's bot's life.
+4. ping.js -- check's bot's life.
 
--say.js -- shows embed with your text.
-3. Added simple module, dynamicEmbed
+5. say.js -- shows embed with your text.
+* Added simple module, dynamicEmbed
