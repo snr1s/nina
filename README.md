@@ -2,7 +2,7 @@
 
 Nina is simple discord.js bot. You can download my bad code and use it in your projects.
 
-Last version: **0.0.9**
+Last version: **0.5**
 
 ### Versions
 
