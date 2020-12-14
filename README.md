@@ -1,6 +1,6 @@
 # Nina
 
-Nina is simple discord.js bot. You can download my bad code and use it in your projects.
+Bye.
 
 Last version: **0.5**
 
